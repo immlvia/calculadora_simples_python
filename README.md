@@ -6,9 +6,9 @@ Este é um projeto de uma calculadora simples desenvolvida em Python, capaz de r
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/immilivia/calculadora_simples_python.git](https://github.com/immilivia/calculadora_simples_python.git)
+    git clone [https://github.com/immlvia/calculadora_simples_python.git](https://github.com/immlvia/calculadora_simples_python.git)
     ```
-    (Substitua `immilivia` pelo seu nome de usuário se o repositório estiver em outra conta).
+    (Substitua `immlvia` pelo seu nome de usuário se o repositório estiver em outra conta).
 
 2.  **Navegue até o diretório do projeto:**
     ```bash
