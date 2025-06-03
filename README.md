@@ -1,6 +1,6 @@
 # Calculadora Simples em Python
 
-Este é um projeto de uma calculadora simples desenvolvida em Python, capaz de realizar as quatro operações básicas (adição, subtração, multiplicação e divisão), além de funcionalidades extras como raiz quadrada e potenciação.
+Este é um projeto de uma calculadora simples desenvolvida em Python, capaz de realizar as quatro operações básicas (adição, subtração, multiplicação e divisão).
 
 ## Como Usar
 
